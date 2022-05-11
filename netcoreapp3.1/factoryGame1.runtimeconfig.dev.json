@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kacpr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kacpr\\.nuget\\packages",
+      "E:\\VS com\\Shared\\NuGetPackages"
+    ]
+  }
+}
